@@ -1,6 +1,6 @@
 # Dcitri_genome_EVE_scripts_2021
 
-This repository contains the python scripts used to detect endogenous viral elements (EVEs) in Diaphorina citri and can be applied to any arthropod genome of interest. These scripts are adapted from "ter Horst et al. 2019". Detailed methodology can be accessed in "Carlson et al. 2022". 
+This repository contains the python scripts used to detect endogenous viral elements (EVEs) in Diaphorina citri and can be applied to any arthropod genome of interest. These scripts are adapted from "ter Horst et al. 2019". Detailed methodology can be accessed in "Carlson et al. 2022 (in submission)". 
 
 "Parse_EVE_XML.py" parses a BLASTx XML output (outfmt 5), removing duplicate and overlapping viral hits, retaining hits with higher bitscores. 
 
